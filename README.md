@@ -1,9 +1,4 @@
-Hi, I'm Ailton Emilio 👋
-<div>
- <img align="right" alt="Emilio-Emoji" height="100" width="100" src="http://a2lean.com/images/bitmoji-Emilio.png"> 
-</div>
- 
-  ##
+## Hi, I'm Ailton Emilio 👋
 
  <div>
   <a href="https://github.com/ailtonemilio">
@@ -29,7 +24,7 @@ Hi, I'm Ailton Emilio 👋
   <a href="https://www.linkedin.com/in/ailtonemilio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    
- ![Snake animation](https://github.com/ailtonemilio/ailtonemilio/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/ailtonemilio/ailtonemilio/blob/output/github-contribution-grid-snake.svg)-->
 </div>
  
 
